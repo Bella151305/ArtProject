@@ -1,5 +1,5 @@
 # ArtProject
-In this project I will try to analyze a context of contemporary art. I'm going to start with:
-- Russian art context
+In this project I will try to analyze contemporary art discourse. I'm going to start with:
+- Russian art discourse
 - main news channles
-- main art events
+- main art market events
