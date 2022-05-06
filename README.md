@@ -12,5 +12,5 @@ In this project I will try to analyze contemporary context of art. I'm going to 
 5. Texts: for texts' processing and analysing.
 
 You can find me on:
-Linkedin: https://www.linkedin.com/in/bella-k-577664223/
-Facebook: https://web.facebook.com/bella.korotkina/
+- Linkedin: https://www.linkedin.com/in/bella-k-577664223/
+- Facebook: https://web.facebook.com/bella.korotkina/
