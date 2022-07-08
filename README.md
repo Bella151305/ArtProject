@@ -10,6 +10,7 @@ In this project I will try to analyze contemporary context of art. I'm going to 
 3. Charts: for results visualisation;
 4. Artsy_genome_api: for collection of the marked up database of images (just links for now) from Artsy.net "The Genom Project";
 5. Texts: for texts' processing and analysing.
+6. Texts_studying: words scoring.
 
 You can find me on:
 - Linkedin: https://www.linkedin.com/in/bella-k-577664223/
