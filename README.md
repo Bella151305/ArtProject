@@ -1,8 +1,24 @@
 # ArtProject
-In this project I will try to analyze contemporary context of art. I'm going to start with:
+I’m beginning a modern art world research project in which I want to combine my two big interests: art and analytics. Mostly, it’s a training project because the main goals of it are to improve my Data Science and Python skills and to discover (for myself) what the art world is for now: what questions it raises, their variety and reasons, how they’re expressed in artists’ visual language, market size of both, topics and artists, how they affect the art market and how the art market affects them.
+
+In this project I will try to analyze:
+1. Contemporary **context of art**. I'm going to start with:
 - Russian art context:
   - main news channles
   - main art events
+- Worldwide art context...
+  - ...
+
+2. **Visual language**:
+- Iconographic description (determination of motives, characters and plots):
+  - image segmentation
+  - segment classification (object detection - ?)
+  - attribute search in the database (from Wikipedia, later from texts)
+- Iconological study (generating a text description):
+  - formal analysis
+  - determination of direction, flow, style (probability table)
+  - ...
+
 
 ## Notebooks:
 1. Sites_studies: for creating a dictionary of sites' navigation trees;
